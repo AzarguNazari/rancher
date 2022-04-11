@@ -48,19 +48,3 @@ Please submit any **Rancher** bugs, issues, and feature requests to [rancher/ran
 Please submit any **RancherOS** bugs, issues, and feature requests to [rancher/os](//github.com/rancher/os/issues).
 
 For security issues, please email security@rancher.com instead of posting a public issue in GitHub.  You may (but are not required to) use the GPG key located on [Keybase](https://keybase.io/rancher).
-
-# License
-
-Copyright (c) 2014-2016 [Rancher Labs, Inc.](http://rancher.com), portions Copyright © 2017 [Rancher Labs, Inc.](http://rancher.com) and HNA Ecological Technology Group Co., Ltd. See [copyright details.](COPYRIGHT_DETAILS.md)
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
